@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="70" height="60" tilewidth="64" tileheight="64" backgroundcolor="#000084">
+ <tileset firstgid="1" name="TilesLA1" tilewidth="68" tileheight="68">
+  <image source="TilesLA1.png" trans="ff00ff" width="512" height="2048"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="images_001"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="images_002"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="images_003"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="images_004"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="images_005"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="images_006"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="name" value="images_007"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="name" value="images_008"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="images_009"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="images_010"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="name" value="images_011"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="name" value="images_012"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="images_013"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="name" value="images_014"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="name" value="images_015"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="name" value="images_016"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="name" value="images_017"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="name" value="images_018"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="name" value="images_019"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="name" value="images_020"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="name" value="images_021"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="name" value="images_022"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="name" value="images_023"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="name" value="images_024"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="name" value="images_025"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="name" value="images_026"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="name" value="images_027"/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="name" value="images_028"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="name" value="images_029"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="name" value="images_030"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="name" value="images_031"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="name" value="images_032"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="name" value="images_033"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="name" value="images_034"/>
+   </properties>
+  </tile>
+  <tile id="34">
+   <properties>
+    <property name="name" value="images_035"/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="name" value="images_036"/>
+   </properties>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="name" value="images_037"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="name" value="images_038"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="name" value="images_039"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="name" value="images_040"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="name" value="images_041"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="name" value="images_042"/>
+   </properties>
+  </tile>
+  <tile id="42">
+   <properties>
+    <property name="name" value="images_043"/>
+   </properties>
+  </tile>
+  <tile id="43">
+   <properties>
+    <property name="name" value="images_044"/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="name" value="images_045"/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="name" value="images_046"/>
+   </properties>
+  </tile>
+  <tile id="46">
+   <properties>
+    <property name="name" value="images_047"/>
+   </properties>
+  </tile>
+  <tile id="47">
+   <properties>
+    <property name="name" value="images_048"/>
+   </properties>
+  </tile>
+  <tile id="48">
+   <properties>
+    <property name="name" value="images_049"/>
+   </properties>
+  </tile>
+  <tile id="49">
+   <properties>
+    <property name="name" value="images_050"/>
+   </properties>
+  </tile>
+  <tile id="50">
+   <properties>
+    <property name="name" value="images_051"/>
+   </properties>
+  </tile>
+  <tile id="51">
+   <properties>
+    <property name="name" value="images_052"/>
+   </properties>
+  </tile>
+  <tile id="52">
+   <properties>
+    <property name="name" value="images_053"/>
+   </properties>
+  </tile>
+  <tile id="53">
+   <properties>
+    <property name="name" value="images_054"/>
+   </properties>
+  </tile>
+  <tile id="54">
+   <properties>
+    <property name="name" value="images_055"/>
+   </properties>
+  </tile>
+  <tile id="55">
+   <properties>
+    <property name="name" value="images_056"/>
+   </properties>
+  </tile>
+  <tile id="56">
+   <properties>
+    <property name="name" value="images_058"/>
+   </properties>
+  </tile>
+  <tile id="57">
+   <properties>
+    <property name="name" value="images_059"/>
+   </properties>
+  </tile>
+  <tile id="58">
+   <properties>
+    <property name="name" value="images_060"/>
+   </properties>
+  </tile>
+  <tile id="59">
+   <properties>
+    <property name="name" value="images_061"/>
+   </properties>
+  </tile>
+  <tile id="60">
+   <properties>
+    <property name="name" value="images_062"/>
+   </properties>
+  </tile>
+  <tile id="61">
+   <properties>
+    <property name="name" value="images_063"/>
+   </properties>
+  </tile>
+  <tile id="62">
+   <properties>
+    <property name="name" value="images_064"/>
+   </properties>
+  </tile>
+  <tile id="63">
+   <properties>
+    <property name="name" value="images_065"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="name" value="images_066"/>
+   </properties>
+  </tile>
+  <tile id="65">
+   <properties>
+    <property name="name" value="images_067"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="name" value="images_068"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="name" value="images_069"/>
+   </properties>
+  </tile>
+  <tile id="68">
+   <properties>
+    <property name="name" value="images_070"/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="name" value="images_071"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="name" value="images_072"/>
+   </properties>
+  </tile>
+  <tile id="71">
+   <properties>
+    <property name="name" value="images_073"/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="name" value="images_074"/>
+   </properties>
+  </tile>
+  <tile id="73">
+   <properties>
+    <property name="name" value="images_075"/>
+   </properties>
+  </tile>
+  <tile id="74">
+   <properties>
+    <property name="name" value="images_076"/>
+   </properties>
+  </tile>
+  <tile id="75">
+   <properties>
+    <property name="name" value="images_077"/>
+   </properties>
+  </tile>
+  <tile id="76">
+   <properties>
+    <property name="name" value="images_078"/>
+   </properties>
+  </tile>
+  <tile id="77">
+   <properties>
+    <property name="name" value="images_079"/>
+   </properties>
+  </tile>
+  <tile id="78">
+   <properties>
+    <property name="name" value="images_080"/>
+   </properties>
+  </tile>
+  <tile id="79">
+   <properties>
+    <property name="name" value="images_081"/>
+   </properties>
+  </tile>
+  <tile id="80">
+   <properties>
+    <property name="name" value="images_082"/>
+   </properties>
+  </tile>
+  <tile id="81">
+   <properties>
+    <property name="name" value="images_083"/>
+   </properties>
+  </tile>
+  <tile id="82">
+   <properties>
+    <property name="name" value="images_084"/>
+   </properties>
+  </tile>
+  <tile id="83">
+   <properties>
+    <property name="name" value="images_085"/>
+   </properties>
+  </tile>
+  <tile id="84">
+   <properties>
+    <property name="name" value="images_086"/>
+   </properties>
+  </tile>
+  <tile id="85">
+   <properties>
+    <property name="name" value="images_087"/>
+   </properties>
+  </tile>
+  <tile id="86">
+   <properties>
+    <property name="name" value="images_088"/>
+   </properties>
+  </tile>
+  <tile id="87">
+   <properties>
+    <property name="name" value="images_089"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="name" value="images_090"/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="name" value="images_091"/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="name" value="images_092"/>
+   </properties>
+  </tile>
+  <tile id="91">
+   <properties>
+    <property name="name" value="images_093"/>
+   </properties>
+  </tile>
+  <tile id="92">
+   <properties>
+    <property name="name" value="images_094"/>
+   </properties>
+  </tile>
+  <tile id="93">
+   <properties>
+    <property name="name" value="images_095"/>
+   </properties>
+  </tile>
+  <tile id="94">
+   <properties>
+    <property name="name" value="images_096"/>
+   </properties>
+  </tile>
+  <tile id="95">
+   <properties>
+    <property name="name" value="images_097"/>
+   </properties>
+  </tile>
+  <tile id="96">
+   <properties>
+    <property name="name" value="images_098"/>
+   </properties>
+  </tile>
+  <tile id="97">
+   <properties>
+    <property name="name" value="images_099"/>
+   </properties>
+  </tile>
+  <tile id="98">
+   <properties>
+    <property name="name" value="images_100"/>
+   </properties>
+  </tile>
+  <tile id="99">
+   <properties>
+    <property name="name" value="images_101"/>
+   </properties>
+  </tile>
+  <tile id="100">
+   <properties>
+    <property name="name" value="images_102"/>
+   </properties>
+  </tile>
+  <tile id="101">
+   <properties>
+    <property name="name" value="images_103"/>
+   </properties>
+  </tile>
+  <tile id="102">
+   <properties>
+    <property name="name" value="images_104"/>
+   </properties>
+  </tile>
+  <tile id="103">
+   <properties>
+    <property name="name" value="images_105"/>
+   </properties>
+  </tile>
+  <tile id="104">
+   <properties>
+    <property name="name" value="images_106"/>
+   </properties>
+  </tile>
+  <tile id="105">
+   <properties>
+    <property name="name" value="images_107"/>
+   </properties>
+  </tile>
+  <tile id="106">
+   <properties>
+    <property name="name" value="images_108"/>
+   </properties>
+  </tile>
+  <tile id="107">
+   <properties>
+    <property name="name" value="images_109"/>
+   </properties>
+  </tile>
+  <tile id="108">
+   <properties>
+    <property name="name" value="images_110"/>
+   </properties>
+  </tile>
+  <tile id="109">
+   <properties>
+    <property name="name" value="images_111"/>
+   </properties>
+  </tile>
+  <tile id="110">
+   <properties>
+    <property name="name" value="images_112"/>
+   </properties>
+  </tile>
+  <tile id="111">
+   <properties>
+    <property name="name" value="images_113"/>
+   </properties>
+  </tile>
+  <tile id="112">
+   <properties>
+    <property name="name" value="images_114"/>
+   </properties>
+  </tile>
+  <tile id="113">
+   <properties>
+    <property name="name" value="images_115"/>
+   </properties>
+  </tile>
+  <tile id="114">
+   <properties>
+    <property name="name" value="images_116"/>
+   </properties>
+  </tile>
+  <tile id="115">
+   <properties>
+    <property name="name" value="images_117"/>
+   </properties>
+  </tile>
+  <tile id="116">
+   <properties>
+    <property name="name" value="images_118"/>
+   </properties>
+  </tile>
+  <tile id="117">
+   <properties>
+    <property name="name" value="images_119"/>
+   </properties>
+  </tile>
+  <tile id="118">
+   <properties>
+    <property name="name" value="images_120"/>
+   </properties>
+  </tile>
+  <tile id="119">
+   <properties>
+    <property name="name" value="images_121"/>
+   </properties>
+  </tile>
+  <tile id="120">
+   <properties>
+    <property name="name" value="images_122"/>
+   </properties>
+  </tile>
+  <tile id="121">
+   <properties>
+    <property name="name" value="images_123"/>
+   </properties>
+  </tile>
+  <tile id="122">
+   <properties>
+    <property name="name" value="images_124"/>
+   </properties>
+  </tile>
+  <tile id="123">
+   <properties>
+    <property name="name" value="images_125"/>
+   </properties>
+  </tile>
+  <tile id="124">
+   <properties>
+    <property name="name" value="images_126"/>
+   </properties>
+  </tile>
+  <tile id="125">
+   <properties>
+    <property name="name" value="images_127"/>
+   </properties>
+  </tile>
+  <tile id="126">
+   <properties>
+    <property name="name" value="images_128"/>
+   </properties>
+  </tile>
+  <tile id="127">
+   <properties>
+    <property name="name" value="images_129"/>
+   </properties>
+  </tile>
+  <tile id="128">
+   <properties>
+    <property name="name" value="images_130"/>
+   </properties>
+  </tile>
+  <tile id="129">
+   <properties>
+    <property name="name" value="images_131"/>
+   </properties>
+  </tile>
+  <tile id="130">
+   <properties>
+    <property name="name" value="images_132"/>
+   </properties>
+  </tile>
+  <tile id="131">
+   <properties>
+    <property name="name" value="images_133"/>
+   </properties>
+  </tile>
+  <tile id="132">
+   <properties>
+    <property name="name" value="images_135"/>
+   </properties>
+  </tile>
+  <tile id="133">
+   <properties>
+    <property name="name" value="images_136"/>
+   </properties>
+  </tile>
+  <tile id="134">
+   <properties>
+    <property name="name" value="images_137"/>
+   </properties>
+  </tile>
+  <tile id="135">
+   <properties>
+    <property name="name" value="images_138"/>
+   </properties>
+  </tile>
+  <tile id="136">
+   <properties>
+    <property name="name" value="images_139"/>
+   </properties>
+  </tile>
+  <tile id="137">
+   <properties>
+    <property name="name" value="images_140"/>
+   </properties>
+  </tile>
+  <tile id="138">
+   <properties>
+    <property name="name" value="images_141"/>
+   </properties>
+  </tile>
+  <tile id="139">
+   <properties>
+    <property name="name" value="images_142"/>
+   </properties>
+  </tile>
+  <tile id="140">
+   <properties>
+    <property name="name" value="images_143"/>
+   </properties>
+  </tile>
+  <tile id="141">
+   <properties>
+    <property name="name" value="images_144"/>
+   </properties>
+  </tile>
+  <tile id="142">
+   <properties>
+    <property name="name" value="images_145"/>
+   </properties>
+  </tile>
+  <tile id="143">
+   <properties>
+    <property name="name" value="images_146"/>
+   </properties>
+  </tile>
+  <tile id="144">
+   <properties>
+    <property name="name" value="images_147"/>
+   </properties>
+  </tile>
+  <tile id="145">
+   <properties>
+    <property name="name" value="images_148"/>
+   </properties>
+  </tile>
+  <tile id="146">
+   <properties>
+    <property name="name" value="images_149"/>
+   </properties>
+  </tile>
+  <tile id="147">
+   <properties>
+    <property name="name" value="images_150"/>
+   </properties>
+  </tile>
+  <tile id="148">
+   <properties>
+    <property name="name" value="images_151"/>
+   </properties>
+  </tile>
+  <tile id="149">
+   <properties>
+    <property name="name" value="images_152"/>
+   </properties>
+  </tile>
+  <tile id="150">
+   <properties>
+    <property name="name" value="images_153"/>
+   </properties>
+  </tile>
+  <tile id="151">
+   <properties>
+    <property name="name" value="images_154"/>
+   </properties>
+  </tile>
+  <tile id="152">
+   <properties>
+    <property name="name" value="images_155"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Fondo" width="70" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmA1PFDEQhtfkOIWNgiJ+gBgECRIBP1dQMPIRg///FzGb3CW1104705m2y92bvLmj12k7z06vPZpGRl1k20J0UdlSuXOfU63rqm0Ojijr6oj9qeOnqMZ1UdmmjpE6F6Vvznp21V3nea+9jpg2bn/pPpIKPQOsTUOutVBqNWWdUmdPqe8s6WfUWa+xc2vWiuZzSBGHVS13hxLfuVRdgB+Afxttte5/Tjy3Jq7BN+C/zHgspkQtYLVIed5X4Evwn4T5Yz/j3J9jlXJn0DyHJOtMSpK/Q0Pj1fi7JOc8sXOm1KbWfQYbO+f5Ueu9T2pszedXkyS+/2uthcfgJ8SYT4JxMflw5usS49bAq0gfU8fgI/DJHMQ9BT8Dr3tip/oIPpzM89WKw545FoetkxLHnQ+L619fgDfAL8GvHDEH4A+Tvr2/zUncG/AWeBP8GrwNfgveAe8Z/af+PCdxtt+Dd8HvwPvWZ9/BX+Y0zucz8Cn4xyLuP/+M7Ncy47jzacSdK7hVGjenfym4VRo3p1cU3CqNO3RPuYwyuHSumG31XJbBjyZrHxt5pLSPHO2mSnOI4bIEfujIR7rdVmkWIS6NIxcNt9bfpVlgXKjC8g7tr/vMBWMT2kdaXHzijkPdBzFsKPvIHpOTiwaXVDaxsrlgqoWLuW4tNqXq5R/R2No5e0FyH1Fz8eXT65bhWrlI5JKLi3n+9rmNHe0hj5vZu7WLTWkuFDbm+dt62mPrxRVTGxfOfpLcR1K5aHChshkKl1QmvWPuwa7cNFQTF0rNpNTLc4clcvJJg00uLhJscnIx2djntKud8n+roXHx1Qz1nA61S9dMKS5S+whz7VxCbLS4pLApwcVm4+OC6b5wwdhocrHHqW0fYXPl1ILLrCTWqsGlJBupdWpxKcFGco2aXIbgOx3CKSQ=
+  </data>
+ </layer>
+ <layer name="EntreBarcoYfondo" width="70" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt0sEJhEAQAEEDuLD8nB/zz0YD6HsInq5YBfMblqWZaQIAAK7w3We5+xMD0qXp0nRpujRdmi5Nl6ZL06Xp0nRpujRdmi7tzC7rSe/8y+fA7pvuRZemS9MFAAAAAAAAxjH/GACeYQMHLg2U
+  </data>
+ </layer>
+ <layer name="BarcoFront" width="70" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmUluwzAMRYWeIfvuc4iuigJtN50LdDpV0eG2pZAYVQgq1kCb3wYf8HeJTTxTlJyE4DiOs26+KT+UX+tCwLikPFOurAsBw73IuBcZ9yLjXmTcyyG3lFfKfdh5eaC8U54siwLghvJCuaN8UB4pb5Rry6KAGNaRc4h7kXEvMu5Fxr3IuBcZ9yLjXmTci8xavGwp5/ucKVyv1Utah1YtPWySnIT+mlq9bFguOmrQgNeT+ml5frVehj4Zq8GifyQ3PKeF16r1UnJvy/5JawgddUzlpfS5TEGNl6H/eX9P4cXSSQh5L3zWpPOAz4Evyuc+0vdy10F1Esl5Ke117SA4iWjMl957I+zRHBQvGucoTVC8IK8j6Ww3FpTnq03vnIwu1+hGYw/RdMPfJVHeCWpmjDQ3W9Ze6gJp/+559i39xd3Xfn4uetaF9tkNpVdytVi986P0ygBKLy/Nyxz78Va4r7WXiHXPIM1cjlXPSL2C5CUy5iY3h3Nnsp7fZJbi5dje2bJnI8y1GlD2I3Q3c9a2tPXkPfOP1TNbUs9YryXknimt7die3fNOitozpW40zs3oXiK5813Lf2f8uzmk66D8Lj4wxZmtNoi4kzzuJI87WS5/DaprlQ==
+  </data>
+ </layer>
+ <layer name="EntreBarcoYHero" width="70" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1bkNgDAQRFF3ymmOguiXCYhowFi8J31tOtmWAgAAANCnIY1pSnNa0vqqpu25ezrT0WArAPyNPw0AfbpaDwAAAAAAAAAA+LAbo7sMUA==
+  </data>
+ </layer>
+ <objectgroup name="Hero" width="70" height="60">
+  <object name="Player" type="game.Player" x="1871" y="1681" width="51" height="138">
+   <properties>
+    <property name="acceleration" value="1"/>
+    <property name="canDuck" value="true"/>
+    <property name="enemyClass" value="citrus.objects.platformer.box2d.Enemy"/>
+    <property name="enemySpringHeight" value="8"/>
+    <property name="enemySpringJumpHeight" value="9"/>
+    <property name="friction" value="0.75"/>
+    <property name="group" value="1"/>
+    <property name="hurtDuration" value="1000"/>
+    <property name="hurtVelocityX" value="6"/>
+    <property name="hurtVelocityY" value="10"/>
+    <property name="inputChannel" value="0"/>
+    <property name="killVelocity" value="3"/>
+    <property name="maxVelocity" value="8"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2189" y="2355" width="64" height="205">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="game.levels.Stairs" x="2112" y="2560" width="64" height="925">
+   <properties>
+    <property name="group" value="2"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="ennemy" width="70" height="60">
+  <object name="enemy1" type="game.PassiveAI" x="2816" y="1728" width="63" height="159">
+   <properties>
+    <property name="damage" value="10"/>
+    <property name="enemyClass" value="game.Player"/>
+    <property name="enemykillVelocity" value="3"/>
+    <property name="group" value="1"/>
+    <property name="hurtDuration" value="400"/>
+    <property name="leftBound" value="-100000"/>
+    <property name="life" value="80"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="rightBound" value="100000"/>
+    <property name="speed" value="1.3"/>
+    <property name="startingDirection" value="left"/>
+    <property name="talk" value="true"/>
+    <property name="talk1" value="Otra vez ese loco disparando cañones"/>
+    <property name="talk2" value="¡Haber si se le acaban las balas ya!"/>
+    <property name="talk3" value="Esto de ponerse un parche en cada ojo no es muy buena idea"/>
+    <property name="texture" value="pirata1"/>
+    <property name="wallSensorHeight" value="2"/>
+    <property name="wallSensorOffset" value="10"/>
+    <property name="wallSensorWidth" value="2"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer name="FrontHero" width="70" height="60">
+  <properties>
+   <property name="group" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt10lOQlEQRuGXsAWWhTDFLdiA2AAqKAgqdjS6YY+JzOpOSJ73Gc6XnHnln1VRSJIkSZKq4IDavzWpRYfUyHmUVHFHdEwndEbnNKRrmtCUFvRCH7SkDX1muPUvnVKHutSjCxrQDd3TAz3TK73Titb0lePYjC7pim7pjmb0RG85j6qIPo1oTHN6zHuOJEkqyc8fuv0/q/J71oPkLinuEnOXmLvE3CTmLjF3iblLzF20i1qifecuae6S5i6SJEmSyuQ/FvOHj7lLLLWL20jS//AN73scQg==
+  </data>
+ </layer>
+ <objectgroup name="Platforms" width="70" height="60">
+  <object type="citrus.objects.platformer.box2d.Platform" x="899" y="1518" width="204" height="145">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="1"/>
+    <property name="offsetY" value="1"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1103" y="1583" width="124" height="128">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1229" y="1653" width="324" height="58">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1090" y="1712" width="177" height="653">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="1"/>
+    <property name="offsetY" value="1"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1474" y="1908" width="1929" height="70">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2946" y="1658" width="642" height="250">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1266" y="2232" width="851" height="133">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2049" y="2366" width="65" height="68">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2118" y="2284" width="71" height="275">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="1"/>
+    <property name="offsetY" value="1"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2256" y="2424" width="704" height="134">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3075" y="1980" width="329" height="194">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3396" y="2355" width="384" height="64">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3208" y="2417" width="531" height="76">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3710" y="1953" width="152" height="397">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3395" y="2496" width="333" height="574">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3323" y="2741" width="73" height="270">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3261" y="2869" width="61" height="138">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2307" y="2935" width="959" height="73">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1152" y="2366" width="272" height="260">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1420" y="2553" width="72" height="292">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1492" y="2612" width="251" height="246">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1743" y="2739" width="57" height="270">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1800" y="2868" width="63" height="140">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1867" y="2927" width="134" height="80">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1596" y="3007" width="146" height="399">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1743" y="3119" width="61" height="528">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1806" y="3317" width="55" height="335">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1861" y="3382" width="68" height="272">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1930" y="3443" width="69" height="215">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2002" y="3511" width="1646" height="161">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2498" y="3379" width="458" height="129">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3459" y="3073" width="339" height="122">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3521" y="3192" width="342" height="134">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3584" y="3328" width="329" height="185">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object name="llaveBoxCollision" type="citrus.objects.platformer.box2d.Platform" x="2688" y="2624" width="64" height="54">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2058" y="823" width="430" height="5">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="game.levels.LevelObjects" x="2368" y="1728" width="64" height="64">
+   <properties>
+    <property name="action" value="use"/>
+    <property name="description" value="Una palanca para robar un coche :P"/>
+    <property name="group" value="1"/>
+    <property name="nameObject" value="Palanca"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="quantity" value="1"/>
+    <property name="registration" value="center"/>
+    <property name="resultObject" value="Palanca y Cuerda"/>
+    <property name="texture" value="palanca"/>
+    <property name="type" value="key"/>
+    <property name="union" value="Cuerda"/>
+    <property name="wrongPlace" value="No Creo que sea el momento de usar esto"/>
+   </properties>
+  </object>
+  <object type="game.levels.LevelObjects" x="2496" y="1728" width="64" height="64">
+   <properties>
+    <property name="action" value="use"/>
+    <property name="description" value="Una cuerda bastante larga"/>
+    <property name="group" value="1"/>
+    <property name="nameObject" value="Cuerda"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="quantity" value="1"/>
+    <property name="registration" value="center"/>
+    <property name="resultObject" value="Palanca y Cuerda"/>
+    <property name="texture" value="cuerda"/>
+    <property name="type" value="key"/>
+    <property name="union" value="Palanca"/>
+    <property name="wrongPlace" value="Em.. como se supone que debo usar esto"/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1794" y="974" width="958" height="52">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1797" y="1434" width="956" height="36">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object name="rope1" type="citrus.objects.platformer.box2d.Platform" x="2811" y="1202" width="64" height="64">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1795" y="1841" width="148" height="68">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3588" y="1358" width="95" height="301">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3078" y="1520" width="275" height="138">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object name="Elevator" type="game.levels.Elevator" x="1537" y="1405" width="192" height="64">
+   <properties>
+    <property name="enable" value="true"/>
+    <property name="endX" value="1578"/>
+    <property name="endY" value="1000"/>
+    <property name="group" value="0"/>
+    <property name="lv" value="1"/>
+    <property name="message" value="Em... de acuerdo que hace eso aquí?"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="speed" value="1"/>
+    <property name="startX" value="1578"/>
+    <property name="startY" value="1400"/>
+    <property name="texture" value="movinPlatform"/>
+   </properties>
+  </object>
+  <object name="barril1" type="game.PhysicBox" x="1652" y="1773" width="107" height="128">
+   <properties>
+    <property name="group" value="1"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="registration" value="center"/>
+    <property name="texture" value="barril"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="LevelEvents" width="70" height="60">
+  <object name="llaveBox" type="game.levels.EventByCollision" x="2671" y="2637" width="64" height="64">
+   <properties>
+    <property name="action" value="drop"/>
+    <property name="drop" value="llave"/>
+    <property name="group" value="2"/>
+    <property name="lv" value="1"/>
+    <property name="message" value="Que raro, ¿que hace eso ahí?"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="texture" value="llaveBox"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object name="Gancho" type="game.levels.EventByObject" x="2624" y="1129" width="192" height="320">
+   <properties>
+    <property name="action" value="addObject"/>
+    <property name="group" value="2"/>
+    <property name="key" value="Palanca y Cuerda"/>
+    <property name="lv" value="1"/>
+    <property name="message" value="Un gancho para enganchar algo"/>
+    <property name="object" value="rope"/>
+    <property name="objectAnchor" value="rope1"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="texture" value="grua"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="867" y="1078" width="84" height="453">
+   <properties>
+    <property name="group" value="0"/>
+    <property name="offsetX" value="1"/>
+    <property name="offsetY" value="1"/>
+    <property name="oneWay" value="false"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object name="Cannon" type="game.levels.ShootingCannon" x="2040" y="730" width="134" height="95">
+   <properties>
+    <property name="fireRate" value="5000"/>
+    <property name="group" value="0"/>
+    <property name="lv" value="1"/>
+    <property name="missileAngle " value="30"/>
+    <property name="missileSpeed" value="5"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="startingDirection" value="left"/>
+    <property name="texture" value="cannon"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="LevelObjects" width="70" height="60">
+  <object type="game.levels.LevelObjects" x="2048" y="2048" width="64" height="64">
+   <properties>
+    <property name="action" value="heal"/>
+    <property name="group" value="1"/>
+    <property name="life" value="50"/>
+    <property name="nameObject" value="vida50"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="quantity" value="1"/>
+    <property name="registration" value="center"/>
+    <property name="texture" value="vida"/>
+    <property name="type" value="item"/>
+   </properties>
+  </object>
+  <object name="barril" type="game.PhysicBox" x="2588" y="1775" width="107" height="128">
+   <properties>
+    <property name="group" value="1"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="registration" value="center"/>
+    <property name="texture" value="barril"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="LevelSensors" width="70" height="60">
+  <object type="game.levels.Stairs" x="1343" y="1715" width="67" height="475">
+   <properties>
+    <property name="group" value="2"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+  <object type="game.levels.Stairs" x="3072" y="2176" width="63" height="732">
+   <properties>
+    <property name="group" value="2"/>
+    <property name="offsetX" value="0"/>
+    <property name="offsetY" value="0"/>
+    <property name="parallaxX" value="1"/>
+    <property name="parallaxY" value="1"/>
+    <property name="radius" value="0"/>
+    <property name="registration" value="center"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

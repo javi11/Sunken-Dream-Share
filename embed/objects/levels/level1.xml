@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Objects>
+	<items>
+    <palanca>
+      <name>Palanca</name>
+      <type>key</type>
+      <quantity>1</quantity>
+      <texture>palanca</texture>
+      <description>Una palanca para robar un coche :P</description>
+		</palanca>
+		<llave>
+      <name>Llave</name>
+      <type>key</type>
+      <quantity>1</quantity>
+      <texture>llave</texture>
+      <description>Una llave vieja</description>
+		</llave>	
+	</items>
+</Objects>

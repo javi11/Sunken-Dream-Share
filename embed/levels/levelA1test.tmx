@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="60" tilewidth="64" tileheight="64" backgroundcolor="#000084">
+ <tileset firstgid="1" name="tileA1" tilewidth="64" tileheight="64">
+  <image source="tileA1.png" trans="ff00ff" width="1244" height="1312"/>
+ </tileset>
+ <layer name="Fondo" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt12eQFEUYxvEZcpQoIEFyjiIZ5chZJAdJgmROkpKTBL+o5PiFZAKhrBNFQQlFFQoKClJUAQaifEEFBAwEA/+puy6aYXemt+dmdq2bt+pXu7Oz73Q/O729d4ahXuuwHhuwEZvwJt7C23gH72IztuA9bMU2H66p26cz9w/xEXbgY3yCndiFT/EZdmMP9mKfw7U+wHaNaxqafTpz/wIHcQhf4iscxhF8jW9wFMfwLY47XOsAPte4pm6fztzF4y3cxh3NsY8b+qWbtyAKISuyITtyICdyITfyIC8eQT7kRwHrnMk55DVj7/UyrpfeiqiEYngMxVECJVEKj6M0yqAsyqE8KljnyFkaZczYe8W4XvZAnTk3QmNURw3URC3URh084TAnUU5zqosnUQ/10QANpXGt0tl39rnMOdq4Kp9vtDmJcppTG7RFO7RHB3REJ3Q29L+H1ne/GZLQHC3QEq3Q2mFcld8DL3Pqi354Dv0xAAMxCIPRDd3RAz3RC73Rx6deL1kmYhKGYThGYCRGYTTGYCyS8SLGYTwmOPR6+T6rjLsQr2IqpmE6ZmAmZmE25mAuXsE8zMcCqVeUTq99XKt0v88q467BWryG1/EGFmExlmAplmE5VmAlVmG11CtKp9c+rpf1pjKuWAte1tH/qVesBatiXUdy6a5B3V7dccVacFpHouzrSJSXNRh070+4hJM4hdP4Dt/jB/xoRK6Lir1ncBbncB4X4tz7J/7CC/xN+DOPv+BXXMFVXIuS11Ds/Q3XcQM38Tv+kHovG8H25mSuuczUOf/D8b/4zwrDsYlMpkPgtKxOvZmRBVmt/ymQHTnM++P+bQTbWxKlkA/5UQAFUQiF8ahLXrfeIiiKYtb/FCiOEorj+tFbG3XS7lF5VEBFVEJlVEHVKJlT0h7L2XqTbb3VUB01UBO1pHHtvfZx07u3JVql5W2AhmiExmiCpnhKyptkPpjX6q1v60229T6NZmZqb3O0kMa191rjjolCpddt3F7ojfbogI7ohM54Bl3wrJRRHj9FOi6LvhHm6OfrbnPuim7ojh7oiVEYjf4YgIEYhMF4HkMw1CVva9TDXSP1uTjv9+tuc7bW7DAMxwiMxEzMwjiMxwRMxCS8hJcxWeH+pifV67rNeQqmYhqmYwbeN9zJlUh5I5Vblv0Kgio5r27td3FCkVXWvqtCt1TynnA5l55USvUzsX8+0dazat70zmofJ9mM/Dvh5Vg8j2Vf8CNnpMwir/13wsuxeJ5iPPx7FOm531nt32U/9uZY9ueg8vqdWc7rlD3ovCqls38Jct4gs7nxa1073d9EyhvrHu30eqS88b6/IrPbHizeIx/L+679fSKvfX+Od1Y/13Si3l+/Midy3ozEy++OjnjnzaiCqnjnzKh5g8oc74yhxBRWWGGFFVZYYYUVVlhhhRVWat0D/tq51w==
+  </data>
+ </layer>
+ <layer name="FondoBarco" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz0ERACAMBLGiCTH176Qa+MAMlyjYrQIAAIBze70uuMvv39J+O+wXAAAAAAAAAAAg1QBJ7QEp
+  </data>
+ </layer>
+ <layer name="Barco" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztl8ENwjAMRdORyhCwAzPACXZgPyZCSFSKoqR1bec7wH+SxaUkfnHitCkRQgghhBBCiJx5SukgiNMUnakPl0kWxx9xlvq+46r0te6h1v+16y/11SId/9yYY+/z2py82HNmanWs+Vl9a3mVSPbkWr7WKH2150vq65W3Nqx+Hr7WNWk59HatzWM9H9/CyL7l3WR9J5gHre/i6XknvZHcDx6R10XyPtKrh6F6bXm3WMeocV+J2+cX5ezhu1XbhyBQdc5z7VHbnOdKtHKI7l0zIJ+RfFHrv4wf/f2L3G+5c9T9FOE7Uv/qfb6iznHZp9C+6HOsvXs950XWOKK25dzIGo/g27tXb30noHsIol9H9uZo0L1KkgMqIlyjnCNd0b7Rrgv/5EoIIYQQQgghhIzIC8rnIDE=
+  </data>
+ </layer>
+ <layer name="ObjetosDeNivel" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAA8GY4QAAB
+  </data>
+ </layer>
+ <objectgroup name="player" width="60" height="60">
+  <object name="Player1" type="game.Player" x="643" y="702" width="63" height="165">
+   <properties>
+    <property name="acceleration" value="1"/>
+    <property name="canDuck" value="false"/>
+    <property name="friction" value="0,75"/>
+    <property name="hurtVelocityX" value="3"/>
+    <property name="hurtVelocityY" value="5"/>
+    <property name="jumpHeight" value="9"/>
+    <property name="maxVelocity" value="8"/>
+    <property name="view" value=""/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer name="FrontGround" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1rENACEMBEFT5TdB37RB/BIBEcF5RroC1pGrAAAAgO7m+C+d3mw3vd1uAgAvrcOS6a36wv+pbr0AAAAAAABk2QCVGlo=
+  </data>
+ </layer>
+ <objectgroup name="Colisiones" width="60" height="60">
+  <object type="citrus.objects.platformer.box2d.Platform" x="1026" y="1196" width="1364" height="150"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1918" y="1008" width="655" height="188"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2574" y="1142" width="373" height="56"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2948" y="1008" width="143" height="270"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3090" y="1008" width="254" height="79"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3268" y="1088" width="76" height="127"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="326" y="879" width="648" height="65"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="385" y="947" width="647" height="68"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="643" y="1015" width="140" height="645"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="783" y="1591" width="1476" height="200"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2435" y="1585" width="847" height="207"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3013" y="1520" width="405" height="64"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3134" y="1457" width="284" height="63"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="841" y="1794" width="136" height="174"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="924" y="1971" width="99" height="328"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1026" y="2035" width="1487" height="77"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2693" y="2034" width="589" height="73"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3012" y="1794" width="270" height="240"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2882" y="2107" width="337" height="445"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1215" y="2416" width="1666" height="212"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1015" y="2115" width="136" height="316"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1151" y="2359" width="64" height="203"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2388" y="1198" width="557" height="78"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2756" y="1277" width="269" height="64"/>
+ </objectgroup>
+</map>

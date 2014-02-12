@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Objects>
+	<items>
+		<vida50>
+			<name>vida50</name>
+			<life>50</life>
+			<type>item</type>
+			<quantity>1</quantity>
+			<texture>vida</texture>
+			<description>Te cura hasta 50 puntos de vida</description>
+		</vida50>
+		<diario>
+      <name>Diario</name>
+      <type>map</type>
+      <page>1</page>
+      <quantity>1</quantity>
+      <texture>diario</texture>
+      <description>Diário de abordo de Jon Smith</description>
+		</diario>
+	</items>
+</Objects>

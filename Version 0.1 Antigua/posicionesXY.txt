@@ -1,0 +1,4 @@
+-izquierda +drecha:
+-arriba +abajo;
+
+-600 -100

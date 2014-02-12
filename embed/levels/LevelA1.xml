@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Objects>
+	<items>
+		<diario position="levelobject">
+			 <nameObject>Diario</nameObject>
+			 <type>item</type>
+			 <page>1</page>
+			 <quantity>1</quantity>
+			 <texture>diario</texture>
+			 <action>page</action>
+			 <x>1490</x>
+			 <y>650</y>
+			 <description>Diário de abordo de Jon Smith</description>
+		</diario>
+		<llave position="levelobject">
+		  <nameObject>llave</nameObject>
+		  <type>key</type>
+		  <quantity>1</quantity>
+		  <texture>llave</texture>
+		  <action>use</action>
+			<x>0</x>
+			<y>0</y>		  
+		  <union></union>
+		  <description>Una llave, se parece a la del candado de mi bici</description>
+		  <wrongPlace>No creo que esto encage ahí</wrongPlace>
+		</llave>		
+		<palancaycuerda position="hidenobject">
+		  <nameObject>Palanca y Cuerda</nameObject>
+		  <type>key</type>
+		  <quantity>1</quantity>
+		  <texture>palancaycuerda</texture>
+		  <action>use</action>
+			<x>0</x>
+			<y>0</y>		  
+		  <union></union>
+		  <description>Una cuerda unido a una palanca menudo artista estoy hecho</description>
+		  <wrongPlace>Em.. como se supone que debo usar esto aquí</wrongPlace>
+		</palancaycuerda>			
+		<cococannon position="gameobject">
+			<nameObject>Cannon</nameObject>
+			<type>weapon</type>
+			<quantity>5</quantity>
+			<texture>cococannon</texture>
+			<damage>40</damage>
+			<velX>10</velX>
+			<velY>10</velY>
+			<distance>large</distance>
+			<description>Pues unos cocos para disparar</description>		
+		</cococannon>		
+		<hit position="gameobject">
+			<nameObject>Puño</nameObject>
+			<type>weapon</type>
+			<quantity>0</quantity>
+			<texture>golpe</texture>
+			<damage>10</damage>
+			<velX>0</velX>
+			<velY>0</velY>
+			<distance>short</distance>
+			<description>Pues a puñetazo limpio</description>		
+		</hit>			
+	</items>
+	<enemys>
+	</enemys>
+	<npc>
+	</npc>
+</Objects>
